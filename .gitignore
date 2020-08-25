@@ -7,3 +7,7 @@ poc/
 src/main/java/org/joychou/test/
 *.iml
 docker_jdk_build.sh
+
+_codeql.db/
+_codeql.sarif
+
